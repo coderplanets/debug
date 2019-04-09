@@ -1,11 +1,11 @@
 {
   "name": "debug",
-  "version": "4.1.0",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/visionmedia/debug.git"
+    "url": "git://github.com/coderplanets/debug.git"
   },
-  "description": "small debugging utility",
+  "description": "small debugging utility with ie support",
   "keywords": [
     "debug",
     "log",
